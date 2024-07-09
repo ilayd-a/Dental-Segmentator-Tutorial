@@ -16,19 +16,19 @@
 
 8) Pick DentalSurgery.
    
-  <img width="840" alt="Screenshot 2024-07-10 at 12 35 46 AM" src="https://github.com/ilayd-a/Dental-Segmentator-Tutorial/assets/66847423/9b3c3555-6165-4d12-b695-be98543ea2e2">
+   <img width="840" alt="Screenshot 2024-07-10 at 12 35 46 AM" src="https://github.com/ilayd-a/Dental-Segmentator-Tutorial/assets/66847423/9b3c3555-6165-4d12-b695-be98543ea2e2">
 
 10) Click here.
     
-   <img width="859" alt="Screenshot 2024-07-10 at 12 29 30 AM" src="https://github.com/ilayd-a/Dental-Segmentator-Tutorial/assets/66847423/2dce3b99-1602-4453-818d-75b504d43a13">
+    <img width="859" alt="Screenshot 2024-07-10 at 12 29 30 AM" src="https://github.com/ilayd-a/Dental-Segmentator-Tutorial/assets/66847423/2dce3b99-1602-4453-818d-75b504d43a13">
 
 12) Go to Segmentation and select DentalSegmentator.
     
-   <img width="861" alt="Screenshot 2024-07-10 at 12 31 38 AM" src="https://github.com/ilayd-a/Dental-Segmentator-Tutorial/assets/66847423/ea248975-25f6-4141-a033-d9a321fdb63d">
+    <img width="861" alt="Screenshot 2024-07-10 at 12 31 38 AM" src="https://github.com/ilayd-a/Dental-Segmentator-Tutorial/assets/66847423/ea248975-25f6-4141-a033-d9a321fdb63d">
 
 14) Click Apply.
     
-   <img width="885" alt="Screenshot 2024-07-10 at 12 36 58 AM" src="https://github.com/ilayd-a/Dental-Segmentator-Tutorial/assets/66847423/61164fc9-d827-420c-97b4-2e82c0eb3f8e">
+    <img width="885" alt="Screenshot 2024-07-10 at 12 36 58 AM" src="https://github.com/ilayd-a/Dental-Segmentator-Tutorial/assets/66847423/61164fc9-d827-420c-97b4-2e82c0eb3f8e">
 
 It may take a while but in the end the result will be this:
 
